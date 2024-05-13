@@ -1,0 +1,24 @@
+body {
+  background-color: #e9e998;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  margin: 10px;
+}
+
+a:visited {
+  color: #b6970d;
+}
