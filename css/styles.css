@@ -15,10 +15,16 @@ p {
   justify-content: center;
 }
 
-a {
-  margin: 10px;
+.links a {
+  margin: 25px;
+  font-size: 18px;
 }
 
 a:visited {
   color: #b6970d;
+}
+img {
+  max-width: 600px;
+  display: block;
+  margin: 0 auto;
 }
